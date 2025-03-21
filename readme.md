@@ -22,7 +22,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/happy-crystal/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: crystal.best.2002@gmail.com">cute.kitty.shorter@gmail.com</a>
+  📫 How to reach me: <a href="mailto: crystal.best.2002@gmail.com">crystal.best.2002@gmail.com</a>
 </p>
 
 <hr>
