@@ -13,9 +13,9 @@
   <br>
   📚 I’m currently learning how to integrate Blockchain with powerful AI.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/Alyssa-1001/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/happy-crystal/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: cute.kitty.shorter@gmail.com">cute.kitty.shorter@gmail.com</a>
+  📫 How to reach me: <a href="mailto: crystal.best.2002@gmail.com">crystal.best.2002@gmail.com</a>
 </p>
 
 
